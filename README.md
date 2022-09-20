@@ -56,6 +56,6 @@ For any questions, concerns, or ideas for contributions, email me or contact me 
 
 **GitHub Profile:** <https://github.com/ommarkhawaja1>
 
-**Deployed App**: </>
+**Deployed App**: <https://salty-cove-61486.herokuapp.com//>
 
 **GitHub Repository:** <https://github.com/ommarkhawaja1/book-search>
