@@ -14,6 +14,8 @@
 ## Description
 A fully functioning Google Books API search engine refactored from a RESTful API to be a GraphQL API built with Apollo Server. This app will allow users to search, save, and delete their favorite books to their account!
 
+![book-search-screenshot](https://user-images.githubusercontent.com/79770445/191140555-77b8c16a-30ef-48d5-a9b7-aaa63c818494.PNG)
+
 
 ## Installation
 To installation necessary! This site utilizes Heroku to deploy the live version of the site. 
